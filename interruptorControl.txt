@@ -1,0 +1,7 @@
+Ligue o Interruptor A por 10-15 minutos.
+Desligue o Interruptor A e ligue o Interruptor B.
+
+Verifique as lâmpadas:
+A lâmpada quente e desligada é controlada pelo Interruptor A.
+A lâmpada ligada é controlada pelo Interruptor B.
+A lâmpada fria e desligada é controlada pelo Interruptor C.
